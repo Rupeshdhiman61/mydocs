@@ -10,6 +10,7 @@ nav:
     - Overview: info.md
     - Key Concepts: concepts.md
     - Reference: api.md
+    - Swagger UI: swagger/index.html
 
 plugins:
   - search
