@@ -1,1 +1,1 @@
-This is page 1.dd
+<swagger-ui src="https://rupeshdhiman61.github.io/swagger-project/openapi.yaml"/>
